@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "description": "Bring Coffee to Office",
+    "status": "todo",
+    "createdAt": "2025-08-02T18:59:48.031Z",
+    "updatedAt": "2025-08-02T19:00:46.592Z"
+  },
+  {
+    "id": 2,
+    "description": "Make project",
+    "status": "done",
+    "createdAt": "2025-08-02T19:01:45.331Z",
+    "updatedAt": "2025-08-02T19:02:07.454Z"
+  }
+]

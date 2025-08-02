@@ -1,0 +1,17 @@
+{
+  "name": "tasktracker",
+  "version": "1.0.0",
+  "description": "A simple command line task manager",
+  "type": "module",
+  "main": "task-cli.js",
+  "bin": {
+    "task-cli": "./task-cli.js"
+  },
+  "scripts": {
+    "start": "node task-cli.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["cli", "task-manager", "productivity"],
+  "author": "",
+  "license": "ISC"
+}
